@@ -28,15 +28,6 @@ To design and implement a versatile stopwatch that can switch between increment 
 
 ## 🖼️ **Check out the demo**
 
-Trying the Pause, Resume and Reset buttons on countup mode
 
-https://github.com/user-attachments/assets/d50cff78-c1cc-4424-aa6a-5aa099369861
-
-Switching to countdown mode
-
-https://github.com/user-attachments/assets/e7a8a09e-9d0b-4491-bb41-0a227a94d076
-
-Watch as the buzzer gets triggered as the countdown comes to an end!
-
-https://github.com/user-attachments/assets/259b4ea0-1edc-4c66-a5b6-411f8417e449
+https://github.com/user-attachments/assets/3ab53c54-9360-47c4-9e31-4c367b29901b
 
